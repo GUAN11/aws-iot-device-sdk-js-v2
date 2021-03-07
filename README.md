@@ -31,11 +31,11 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
 三、开发计划
 ==
 
-第1周：完成TDS水质采集模块和时钟模块
-第2周：完成电机控制模块与语音播报模块
-第3周：完成控制策略
-第4周：调试wifi收发功能
-第5~6周：完成客户端开发
+第1周：完成TDS水质采集模块和时钟模块<br>
+第2周：完成电机控制模块与语音播报模块<br>
+第3周：完成控制策略<br>
+第4周：调试wifi收发功能<br>
+第5~6周：完成客户端开发<br>
 
 四、工程文件位置
 ==
